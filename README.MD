@@ -22,7 +22,8 @@ tcc -ml -B alien_sh.c
 Your task is to stop an alien invasion by shooting at the UFO.\
 The arrows are used to control your character (you can press 2 at the same time).\
 X on the keyboard is used to shoot (UFO can shoot too).\
-You must avoid ufo bullets as well as the spaceship itself.
+You must avoid ufo bullets as well as the spaceship itself.\
+When you lose your life you have 2 seconds of untouchability, during this time the character has red surround.
 
 That's basically it.
 
