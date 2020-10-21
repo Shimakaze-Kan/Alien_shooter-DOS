@@ -15,6 +15,9 @@ TASM must be in the same folder as TC.
 tcc -ml -B alien_sh.c
 ```
 
+## Screenshot
+![](img/bg.png)
+
 ## How to play
 Your task is to stop an alien invasion by shooting at the UFO.\
 The arrows are used to control your character (you can press 2 at the same time).\
